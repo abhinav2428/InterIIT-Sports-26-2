@@ -49,14 +49,6 @@ const iitsList = [
 
 const sportsGrid = [
   {
-    name: 'Athletics & Track',
-    icon: 'directions_run',
-    venue: 'Jnan Ghosh Stadium',
-    count: '32 Events',
-    href: '/athletics',
-    color: 'from-amber-500 to-orange-600',
-  },
-  {
     name: 'Basketball',
     icon: 'sports_basketball',
     venue: 'TSG Indoor Courts',

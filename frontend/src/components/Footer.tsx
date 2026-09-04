@@ -47,11 +47,6 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/legacy" className="text-gray-300 hover:text-secondary-container transition-colors">
-                  LEGACY & HISTORY
-                </Link>
-              </li>
-              <li>
                 <Link href="/schedule" className="text-gray-300 hover:text-secondary-container transition-colors">
                   EVENT SCHEDULE
                 </Link>
@@ -64,11 +59,6 @@ export default function Footer() {
               <li>
                 <Link href="/events" className="text-gray-300 hover:text-secondary-container transition-colors">
                   SPORTS & DISCIPLINES
-                </Link>
-              </li>
-              <li>
-                <Link href="/athletics" className="text-gray-300 hover:text-secondary-container transition-colors">
-                  ATHLETICS SPECIFIC HUB
                 </Link>
               </li>
               <li>

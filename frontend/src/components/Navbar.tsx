@@ -8,11 +8,9 @@ import { Menu, X, Smartphone, Download, Award, ChevronRight } from 'lucide-react
 
 const navItems = [
   { label: 'HOME', href: '/' },
-  { label: 'LEGACY', href: '/legacy' },
   { label: 'SCHEDULE', href: '/schedule' },
   { label: 'MATCHES', href: '/matches' },
   { label: 'EVENTS', href: '/events' },
-  { label: 'ATHLETICS', href: '/athletics' },
   { label: 'GALLERY', href: '/gallery' },
   { label: 'CONTACT', href: '/contact' },
 ];

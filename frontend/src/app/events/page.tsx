@@ -31,19 +31,6 @@ interface SportItem {
 
 const sportsList: SportItem[] = [
   {
-    id: 'athletics',
-    name: 'Athletics & Track',
-    category: 'Track & Field',
-    gender: "Men's & Women's",
-    venue: 'Jnan Ghosh Stadium',
-    participants: '320 Athletes',
-    status: 'Live',
-    description: 'Track running (100m - 5000m), Relays, High Jump, Long Jump, Triple Jump, Shot Put, Javelin & Discus Throw.',
-    rulebook: 'Official Athletics Rules 2026.pdf',
-    href: '/athletics',
-    color: 'from-amber-500 to-orange-600',
-  },
-  {
     id: 'basketball',
     name: 'Basketball',
     category: 'Indoor',

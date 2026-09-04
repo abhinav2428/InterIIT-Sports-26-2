@@ -13,7 +13,6 @@ export const metadata: Metadata = {
     'TSG',
     'Sports Meet 2026',
     'Inter IIT 2026',
-    'Athletics',
     'Live Scores',
   ],
 };
